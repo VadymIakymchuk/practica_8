@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": "../pr1"
+		},
+		{
+			"name": "Practica 3",
+			"path": "../Practica 3"
+		},
+		{
+			"name": "Practica 4",
+			"path": "../Practica 4"
+		},
+		{
+			"name": "Practica 4.2",
+			"path": "../Practica 4.2"
+		},
+		{
+			"name": "Practica5",
+			"path": "../Practica5"
+		},
+		{
+			"name": "Practica5_2",
+			"path": "../Practica5_2"
+		},
+		{
+			"name": "Practica 6",
+			"path": "../Practica 6"
+		},
+		{
+			"name": "practica 6.2",
+			"path": "../practica 6.2"
+		},
+		{
+			"name": "Practica 7",
+			"path": "../Practica 7"
+		},
+		{
+			"name": "Practica 8",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"memory": "cpp",
+			"random": "cpp",
+			"initializer_list": "cpp"
+		}
+	}
+}
